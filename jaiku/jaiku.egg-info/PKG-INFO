@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: jaiku
+Version: 1.0.0
+Summary: Library for the Jaiku OAuth API.
+Home-page: http://github.com/jocap/pyjaiku
+Author: John Ankarström
+Author-email: john.ankarstrom@gmail.com
+License: MIT License
+Description: UNKNOWN
+Keywords: jaiku oauth
+Platform: UNKNOWN
