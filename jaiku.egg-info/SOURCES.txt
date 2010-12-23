@@ -1,0 +1,8 @@
+setup.py
+jaiku.egg-info/PKG-INFO
+jaiku.egg-info/SOURCES.txt
+jaiku.egg-info/dependency_links.txt
+jaiku.egg-info/requires.txt
+jaiku.egg-info/top_level.txt
+jaiku.egg-info/zip-safe
+src/__init__.py
